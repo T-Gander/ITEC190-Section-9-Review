@@ -4,8 +4,8 @@
    Review Assignment
 
    Event Timer
-   Author: 
-   Date:   
+   Author: Thomas Gander
+   Date:   26/03/2023
 
 */
 
